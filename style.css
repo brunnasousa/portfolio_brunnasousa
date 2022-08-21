@@ -1,0 +1,18 @@
+@import url('./assets/css/header.css');
+@import url('./assets/css/header.css');
+
+:root {
+    --cor-de-fundo: #121212; 
+    --branco: #FFFFFF;
+    --preto: #000000;
+
+    --fonte-principal: "Montserrat";
+    --fonte-secundaria: "Open Sans";
+}
+
+body{ 
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+}
