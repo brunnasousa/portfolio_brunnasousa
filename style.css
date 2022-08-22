@@ -5,13 +5,14 @@
     --cor-de-fundo: #121212; 
     --branco: #FFFFFF;
     --preto: #000000;
+    --roxo: #7640c5;
 
     --fonte-principal: "Montserrat";
     --fonte-secundaria: "Open Sans";
 }
 
 body{ 
-    background-color: var(--cor-de-fundo);
+    background-color: #9a86b7;
     font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 400;
