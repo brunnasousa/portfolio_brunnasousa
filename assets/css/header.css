@@ -61,10 +61,43 @@ body{
     font-weight: bold;
 }
 
-@media screen and (max-width: 797px){
-    .lista-menu__link{
-        
-    }
+
+#home {
+    text-align: center;
+    font-size: 30px;
+    color: var(--branco);
 }
 
-@media screen and (max-width: 1200px) {}
+.home{
+    display: flex;
+    padding: 15rem 25rem;
+}
+
+.name {
+    font-size: 32px;
+
+}
+
+.name-links {
+    color: var(--preto);
+    font-size: 40px;
+    display: flex;
+}
+
+.name-links-1{
+    padding: 1rem 2rem;
+}
+
+.sobre-mim__descricao-buttons-curriculo{
+    display: flex;
+}
+
+.sobre-mim__descricao-buttons-curriculo-nuvem{
+    margin-right: 2px;
+    align-items: center;
+}
+
+.sobre-img {
+    margin: 1rem;
+    max-width: 15rem;
+}
